@@ -15,13 +15,13 @@ The elbow method is used to determine the optimal number of clusters in k-means 
 
 
 
-![Image from analysis](data/pca.PNG)
+![Image from analysis](images/pca.PNG)
 
-![Image from analysis](data/elbow.PNG)
+![Image from analysis](images/elbow.PNG)
 
-![Image from analysis](data/3d.PNG)
+![Image from analysis](images/3d.PNG)
 
-![Image from analysis](data/scatter_plot.PNG)
+![Image from analysis](images/scatter_plot.PNG)
 
 
 Summary:
